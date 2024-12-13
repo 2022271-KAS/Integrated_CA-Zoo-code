@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Lecturer
+ * @authortest
  */
 public class ZooImp implements Zoo {
 
